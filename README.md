@@ -1,6 +1,5 @@
 <div align="center">
-  <img width="150px" src="/icone.png" alt="Ícone do Projeto">
-  
+ 
   # O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais
 </div>
 
